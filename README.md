@@ -1,6 +1,6 @@
 ## About
 
-Everything that will be used during the *Django Girls Mombasa*workshop
+Everything that will be used during the **Django Girls Mombasa** workshop
 
 
 
